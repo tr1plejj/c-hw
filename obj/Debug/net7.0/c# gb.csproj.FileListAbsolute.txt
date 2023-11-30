@@ -1,0 +1,30 @@
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\obj\Debug\net7.0\c# gb.csproj.AssemblyReference.cache
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\obj\Debug\net7.0\c# gb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\obj\Debug\net7.0\c# gb.AssemblyInfoInputs.cache
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\obj\Debug\net7.0\c# gb.AssemblyInfo.cs
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\obj\Debug\net7.0\c# gb.csproj.CoreCompileInputs.cache
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\bin\Debug\net7.0\c# gb.exe
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\bin\Debug\net7.0\c# gb.deps.json
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\bin\Debug\net7.0\c# gb.runtimeconfig.json
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\bin\Debug\net7.0\c# gb.dll
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\bin\Debug\net7.0\c# gb.pdb
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\obj\Debug\net7.0\c# gb.dll
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\obj\Debug\net7.0\refint\c# gb.dll
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\obj\Debug\net7.0\c# gb.pdb
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\obj\Debug\net7.0\c# gb.genruntimeconfig.cache
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\obj\Debug\net7.0\ref\c# gb.dll
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\bin\Debug\net7.0\c# gb.exe
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\bin\Debug\net7.0\c# gb.deps.json
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\bin\Debug\net7.0\c# gb.runtimeconfig.json
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\bin\Debug\net7.0\c# gb.dll
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\bin\Debug\net7.0\c# gb.pdb
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\obj\Debug\net7.0\c# gb.csproj.AssemblyReference.cache
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\obj\Debug\net7.0\c# gb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\obj\Debug\net7.0\c# gb.AssemblyInfoInputs.cache
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\obj\Debug\net7.0\c# gb.AssemblyInfo.cs
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\obj\Debug\net7.0\c# gb.csproj.CoreCompileInputs.cache
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\obj\Debug\net7.0\c# gb.dll
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\obj\Debug\net7.0\refint\c# gb.dll
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\obj\Debug\net7.0\c# gb.pdb
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\obj\Debug\net7.0\c# gb.genruntimeconfig.cache
+C:\Users\01iVe\OneDrive\Рабочий стол\c# gb\task 1\obj\Debug\net7.0\ref\c# gb.dll
